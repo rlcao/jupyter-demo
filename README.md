@@ -14,3 +14,4 @@ jupyter notebook
 refer doc on page:
 [jupyter doc](https://jupyter-notebook.readthedocs.io/en/stable/)
 [a gallery of interesting jupyter notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
+[a diff tool for merging jupyter notebooks in git](https://pypi.org/project/nbdiff/)
