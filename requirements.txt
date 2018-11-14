@@ -1,2 +1,5 @@
 jupyter
 matplotlib
+ipython-sql
+version_information
+numpy
